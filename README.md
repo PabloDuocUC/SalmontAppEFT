@@ -4,32 +4,6 @@
 
 Prototipo de software modular para la empresa salmonera Salmontt que implementa los principios de Programación Orientada a Objetos para gestionar empleados, clientes, proveedores, productos y órdenes de compra.
 
-## 🏗️ Estructura del Proyecto
-src/
-├── app/ # Punto de entrada
-│ └── Main.java
-├── model/ # Clases del dominio
-│ ├── Persona.java
-│ ├── Empleado.java
-│ ├── Cliente.java
-│ ├── Proveedor.java
-│ ├── Producto.java
-│ ├── OrdenDeCompra.java
-│ ├── Direccion.java
-│ ├── CentroCultivo.java
-│ ├── PlantaProceso.java
-│ ├── UnidadOperativa.java
-│ └── Registrable.java
-├── data/ # Gestión de datos
-│ ├── GestorUnidades.java
-│ ├── personas.txt
-│ ├── productos.txt
-│ └── proveedores.txt
-└── util/ # Utilidades
-├── MiExcepcion.java
-└── ExcepcionPersonalizada.java
-
-
 ## 🚀 Características Técnicas
 
 - ✅ **Encapsulamiento**: Atributos privados con getters/setters
