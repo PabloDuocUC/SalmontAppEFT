@@ -1,0 +1,4 @@
+Isla Huar;Calbuco;1200
+Centro Sur;Antofagasta;800
+Centro Archipielago1;Valparaiso;2000
+Centro Bicentenario;Puerto Montt;3000

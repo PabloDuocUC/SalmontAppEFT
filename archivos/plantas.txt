@@ -1,0 +1,3 @@
+Planta Reinosa;Puerto Varas;1000
+Planta Salmonera;Valparaiso;2000
+Planta Metropolis;Antofagasta;3000

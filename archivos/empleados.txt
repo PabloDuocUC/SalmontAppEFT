@@ -1,0 +1,2 @@
+12345678-9;Juan Perez;Calle 1;Puerto Montt;123;Empleado;Supervisor;800000
+98765432-1;Maria Lopez;Avenida Costera;Puerto Varas;456;Cliente;+56912345678

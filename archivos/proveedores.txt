@@ -1,0 +1,3 @@
+NihaoPulpos;Pulpo;10
+TioReineta;Reineta;4
+SalmonesVIP;Salmon;20
